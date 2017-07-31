@@ -1,7 +1,7 @@
 import media
 import fresh_tomatoes
 
-# The dataset of mives ---Start---
+# The dataset of movies ---Start---
 star_wars7 = media.Movie(
     "Star Wars: The Force Awakens",
     "The Force Awakens is the first installment of the Star Wars trilogy",
@@ -22,7 +22,7 @@ the_intern = media.Movie(
     "https://upload.wikimedia.org/wikipedia/en/c/c9/The_Intern_Poster.jpg",
     "https://www.youtube.com/watch?v=ZU3Xban0Y6A"
 )
-# The dataset of mives ---End---
+# The dataset of movies ---End---
 
 # group all the instances together in a list
 movies = [star_wars7, kingsman2, the_intern]
